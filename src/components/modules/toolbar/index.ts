@@ -150,7 +150,7 @@ export default class Toolbar extends Module {
     $.append(this.nodes.blockActionsButtons, this.nodes.settingsToggler);
     $.append(this.nodes.actions, this.nodes.blockActionsButtons);
 
-    this.Editor.Tooltip.onHover(this.nodes.settingsToggler, 'Click to tune', {
+    this.Editor.Tooltip.onHover(this.nodes.settingsToggler, 'Нажмите для настройки', {
       placement: 'top',
     });
 
