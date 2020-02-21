@@ -124,7 +124,7 @@ export default class Toolbar extends Module {
      */
     const tooltipContent = $.make('div');
 
-    tooltipContent.appendChild(document.createTextNode('Add'));
+    tooltipContent.appendChild(document.createTextNode('Добавить'));
     tooltipContent.appendChild($.make('div', this.CSS.plusButtonShortcut, {
       textContent: '⇥ Tab',
     }));

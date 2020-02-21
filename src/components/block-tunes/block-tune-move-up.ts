@@ -51,7 +51,7 @@ export default class MoveUpTune implements BlockTune {
     /**
      * Enable tooltip module on button
      */
-    this.api.tooltip.onHover(moveUpButton, 'Move up');
+    this.api.tooltip.onHover(moveUpButton, 'Сдвину вверх');
 
     return moveUpButton;
   }
