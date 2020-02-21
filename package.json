@@ -1,7 +1,7 @@
 {
-  "name": "@editorjs/editorjs",
+  "name": "@socialbet/editorjs",
   "version": "2.16.1",
-  "description": "Editor.js — Native JS, based on API and Open Source",
+  "description": "Socialbet Fork: Editor.js — Native JS, based on API and Open Source",
   "main": "dist/editor.js",
   "types": "./types/index.d.ts",
   "keywords": [
@@ -25,7 +25,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codex-team/editor.js.git"
+    "url": "git+https://github.com/brlabrussia/editor.js.git"
   },
   "devDependencies": {
     "@babel/core": "^7.7.5",
